@@ -23,8 +23,7 @@ Built-in modules only (socket, threading)
 Clone the repository (if applicable)
 
       bash
-      
-      https://github.com/rohitharumugam22/PortScanner.git
+      https://github.com/SaravananRKANANDHI/PortScanner.git
       
       cd PortScanner
 
